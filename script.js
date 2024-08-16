@@ -6,6 +6,41 @@ const textoResultado=document.querySelector("texto-resultado")
 
 const perguntas=[
     {
-        enunciado:
+        enunciado:" "
+        alternativas:[
+            {
+                texto:" "
+                afirmacao:" "
+            },
+            {
+                texto:" "
+                afirmacao:" "
+            }
+        ]
+    },
+    {
+        enunciado" "
+        alternativas:[
+            {
+                texto:" "
+                afirmacao:" "
+                 },
+                 {
+                    texto:" "
+                    afirmacao:" "
+                 }
+        ]
+    },
+    {
+        enunciado:" "
+        alternativas:[
+            {
+                texto:" "
+                afirmacao:" "
+            },
+            {
+                
+            }
+        ]
     }
 ]
